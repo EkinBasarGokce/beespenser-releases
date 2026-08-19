@@ -18,7 +18,7 @@ Download `Beespenser_<version>_x64-setup.exe` and run it.
 
 ## Updates
 
-Version 0.5.8 must be installed by hand, once. From that point the
+Version 0.6.1 must be installed by hand, once. From that point the
 application checks for updates on its own and offers them in-app — you
 click once, it installs and restarts. Updates are refused while the
 machine is running a job or probing.
